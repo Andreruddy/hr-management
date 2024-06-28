@@ -1,0 +1,27 @@
+.login-container {
+  background: #2c2c2c;
+  padding: 30px;
+  border-radius: 10px;
+  color: #fff;
+  width: 100%;
+  max-width: 400px;
+}
+.login-container h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+.login-container label {
+  color: #ddd;
+}
+.login-container .form-control {
+  background: #444;
+  border: none;
+  color: #fff;
+}
+.login-container .btn-primary {
+  background: #444;
+  border: none;
+}
+.login-container .btn-primary:hover {
+  background: #555;
+}
